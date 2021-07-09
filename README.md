@@ -18,5 +18,5 @@ If you wish to contact me, about an issue with this project or just generally an
 - [Email](gsammypimo@mail.com)
 - [LinkedIn](https://linkedin.com)
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+[MIT](https://github.com/Samueelx/portfolio/blob/master/LICENCE)
 Copyright (c) 2021 **Samuel Gitimu Gitau**
