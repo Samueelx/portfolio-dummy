@@ -18,6 +18,10 @@ div {
 .intro p {
     font-size: 15px;
 }
+#link {
+    position: sticky;
+    top: 10;
+}
 
 #mando {
     border-radius: 50%;
