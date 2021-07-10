@@ -1,6 +1,6 @@
 # Portfolio Site
 #### This is my portfolio web page that contains all the necessary information about me as a web developer, Created: 9th July 2021
-#### By **Samuel Gitimu Gitau**
+#### By **Samuel Gitimu**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
 ## Setup/Installation Requirements
@@ -19,4 +19,4 @@ If you wish to contact me, about an issue with this project or just generally an
 - [LinkedIn](https://linkedin.com)
 ### License
 [MIT](https://github.com/Samueelx/portfolio/blob/master/LICENCE)
-Copyright (c) 2021 **Samuel Gitimu Gitau**
+Copyright (c) 2021 **Samuel Gitimu**
