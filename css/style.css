@@ -1,3 +1,28 @@
 html {
     scroll-behavior: smooth;
 }
+
+div {
+    border: 0.5px none skyblue;
+    border-radius: 9px;
+}
+
+.intro {
+    padding: 50px;
+    height: 70vh;
+    background-color: #d7e4e7;
+    font-family: monospace;
+    text-align: center;
+    text-shadow: 2px 2px 10px green;
+}
+.intro p {
+    font-size: 15px;
+}
+
+#mando {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0.7;
+}
