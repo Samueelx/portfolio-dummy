@@ -11,11 +11,22 @@
 <body>
     <header>
         <nav>
-
+            <a href="#introduction">
+                HOME
+            </a>
+            <a href="#project">
+                MY PROJECTS
+            </a>
+            <a href="#about-me">
+                ABOUT ME
+            </a>
+            <a href="#contact-info">
+                CONTACT ME
+            </a>
         </nav>
     </header>
     <main>
-        <div class="intro">
+        <div class="intro" id="introduction">
             <h2>Hello and welcome. My name is Samuel and I'm a front-end web developer based in Nairobi</h2>
             <p>I design and build beautiful web user interfaces, and I love what I do.</p>
             <img id="mando" src="images/mando.jpeg" alt="A leopard" width="155" height="140" />
@@ -25,7 +36,7 @@
             </p>
         </div>
 
-        <div class="projects">
+        <div class="projects" id = "project">
             <h2>My recent work</h2>
             <p>Here are a few front-end projects I've worked on recently on recently</p>
             <div class="first">
@@ -34,17 +45,25 @@
                     It contains two webpages, the landing page <br/>
                     and a page about my favorite things.
                 </p>
-                <button type="button">First Web Page</button>
-                <button type="button">GitHub</button>
+                <button type="button">
+                    <a href="https://Samuelx.github.io/my-first-webpage">First-Page</a>
+                </button>
+                <button type="button">
+                    <a href="https://github.com/Samueelx/my-first-webpage">GitHub</a>
+                </button>
             </div>
             <div class = "resume">
                 <p>Turned my resume into a webpage</p>
-                <button type="button">My Resume</button>
-                <button type="button">GitHub</button>
+                <button type="button">
+                    <a href="https://Samueelx.github.io/resume">Resume-Page</a>
+                </button>
+                <button type="button">
+                    <a href="https://github.com/Samueelx/resume-page">GitHub</a>
+                </button>
             </div>
         </div>
 
-        <div class="about">
+        <div class="about" id = "about-me">
             <h2>A Little About Me</h2>
             <p>My name is Samuel Gitimu,  a student at CUEA pursuing a bachelors degree in IT. <br/>
                 I have been in some  other programming classes (a huge part of the coursework).<br/>
@@ -54,7 +73,16 @@
         </div>
     </main>
     <footer>
-
+        <h3 id = "contact-info">Contact</h3>
+        <a href="mailto:{gsammypimo@gmail.com}?subject={subject}&body={content}">
+            Send me an email
+        </a>
+        <a href="sms:{phone}?body={content}">
+            Send me a message
+        </a>
+        <a href="https://github.com/Samueelx">
+            Visit my GitHub
+        </a>
     </footer>
 </body>
 
