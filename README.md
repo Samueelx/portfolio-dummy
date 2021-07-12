@@ -16,6 +16,7 @@ No known bugs
 
 ## To do
 - Add some Bootstrap styling
+
 ## Support and contact details
 If you wish to contact me, about an issue with this project or just generally anything, you can do so via:
 - [Email](gsammypimo@mail.com)

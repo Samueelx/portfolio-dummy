@@ -5,6 +5,25 @@ body {
     font-family: monospace;
 }
 
+nav {
+    padding: 20px;
+    font-size: 15px;
+    background-color: lightgray;
+    border-radius: 9px;
+    border: 1px none lightgray;
+}
+nav li {
+    display: inline;
+}
+nav a {
+    background-color: lightcyan;
+    color: rgb(37, 32, 32);
+}
+nav a:hover{
+    color: green;
+    text-shadow: 2px 2px 7px black;
+}
+
 div {
     border: 0.5px none skyblue;
     border-radius: 9px;
