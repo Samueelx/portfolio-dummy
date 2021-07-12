@@ -5,15 +5,16 @@ body {
     font-family: monospace;
 }
 
+li {
+    display: inline;
+}
+
 nav {
     padding: 20px;
     font-size: 15px;
     background-color: lightgray;
     border-radius: 9px;
     border: 1px none lightgray;
-}
-nav li {
-    display: inline;
 }
 nav a {
     background-color: lightcyan;
@@ -30,6 +31,7 @@ div {
 }
 
 .intro {
+    font-size: 10px;
     padding: 50px;
     height: 70vh;
     background-color: #d7e4e7;
@@ -51,4 +53,11 @@ div {
     margin-left: auto;
     margin-right: auto;
     opacity: 0.7;
+}
+
+.first {
+    margin: 15px;
+}
+footer {
+    text-align: center;
 }
